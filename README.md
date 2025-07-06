@@ -1,4 +1,4 @@
-# 💪 FitLog: Your Personal Fitness Tracker & Workout Logger
+# 💪 IronTrack: Your Personal Fitness Tracker & Workout Logger
 
 Track your workouts. Visualize your progress. Stay consistent.
 
